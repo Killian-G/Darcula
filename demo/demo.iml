@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/swingset3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/combos" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="IconLoader" level="project" />
     <orderEntry type="library" name="SwingSet3 Libraries" level="project" />
